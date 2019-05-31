@@ -4,7 +4,6 @@ float: left;
 background-color: transparent;
 border-color: black;
 border-style: inset;
-
 }
 
 body{
@@ -22,23 +21,17 @@ margin: 10px;
   background-image: url("https://images.pexels.com/photos/1279500/pexels-photo-1279500.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
 }
 
+.projects div {
+  background-color: transparent'
+}
+
 li {
   color: green;
 }
 
 ol li {
   color: #158da3;
-
 }
-
-.projects div {
-  float: left;
-}
-
-.col-sm-2 .linkbutton{
-  float: left;
-}
-
 
 .intropic {
   height: ;
