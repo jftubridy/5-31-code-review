@@ -31,7 +31,13 @@ ol li {
 
 }
 
+.projects div {
+  float: left;
+}
 
+.col-sm-2 .linkbutton{
+  float: left;
+}
 
 
 .intropic {
