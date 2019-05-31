@@ -1,7 +1,16 @@
 .jumbotron {
-background-color: ;
+font-weight: bold;
 }
 body{
 background-color: #4ae2cc;
+margin: 10px;
+}
 
+.intropic {
+  height: ;
+  width: auto;
+  float: left;
+}
+.myname {
+  font-weight: bold;
 }
