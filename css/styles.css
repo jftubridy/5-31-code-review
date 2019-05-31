@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("");
+  background-size: contain;
+}
+body{
+  background-image: needs url tag ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Procyon_lotor_%28xndr%29.JPG/800px-Procyon_lotor_%28xndr%29.JPG");
+  background-repeat: no-repeat;
+
+}
