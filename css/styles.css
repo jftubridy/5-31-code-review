@@ -1,9 +1,28 @@
 .jumbotron {
-  background-image: url("");
-  background-size: contain;
+font-weight: bold;
+float: left;
+
 }
 body{
-  background-image: needs url tag ("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Procyon_lotor_%28xndr%29.JPG/800px-Procyon_lotor_%28xndr%29.JPG");
-  background-repeat: no-repeat;
+background-color: #4ae2cc;
+margin: 10px;
+}
 
+
+.homepage {
+  background-image: url("https://images.pexels.com/photos/1279500/pexels-photo-1279500.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+}
+.linkbutton {
+  float: right;
+  margin: 10px;
+  padding: 3px;
+
+}
+.intropic {
+  height: ;
+  width: auto;
+  float: left;
+}
+.myname {
+  font-weight: bold;
 }
