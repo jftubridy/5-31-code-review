@@ -7,15 +7,15 @@ body{
 background-color: #4ae2cc;
 margin: 10px;
 }
-
+.col-sm-2 {
+  float: right;
+  margin: 5px;
+  padding: 5px;
+}
 
 .homepage {
   background-image: url("https://images.pexels.com/photos/1279500/pexels-photo-1279500.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
 }
-.linkbutton {
-  float: right;
-  margin: 10px;
-  padding: 3px;
 
 }
 .intropic {
