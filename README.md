@@ -12,7 +12,7 @@ _This is a webpage for me to present the finished projects I made._
 
 * _Clone this repository._
 * _Open index.html in a web browser._
-*_[Click here](https://jftubridy.github.io/5-31-code-review/) to check it on gh-pages._
+* _[Click here](https://jftubridy.github.io/5-31-code-review/) to check it on gh-pages._
 
 
 ## Known Bugs
