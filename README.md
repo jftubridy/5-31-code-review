@@ -1,32 +1,35 @@
+# _Jftubridy's Portfolio_
 
-Jftubridy's Portfolio
+#### _This is my portfolio to demonstrate my knowledge, 5/31/2019_
 
-This is my portfolio to demonstrate my knowledge, 5/31/2019
+#### By _**Joseph Tubridy**_
 
-By Joseph Tubridy
+## Description
 
-Description
+_This is a webpage for me to present the finished projects I made._
 
-This is a webpage for me to present the finished projects I made.
+## Setup/Installation Requirements
 
-Setup
-
-Clone this repository.
-Open index.html in a web browser.
-
-There are no known bugs at this time.
-
-I can be reached at jftubridy@gmail.com
+* _Clone this repository._
+* _Open index.html in a web browser._
 
 
-Technologies Used
+## Known Bugs
 
-HTML
-CSS
-Bootstrap
+_There are no known bugs at this time._
 
-License
+## Support and contact details
 
-This is licensed under the MIT license.
+_I can be reached at jftubridy@gmail.com_
 
-Copyright (c) 2019 Joseph Tubridy
+## Technologies Used
+
+_HTML_
+_CSS_
+_Bootstrap_
+
+### License
+
+*This is licensed under the MIT License.*
+
+Copyright (c) 2019 **_Joseph Tubridy_**
